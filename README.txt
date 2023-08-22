@@ -1,4 +1,6 @@
-forked from fiddlerwoaroof/jira-api
+forked from fiddlerwoaroof/jira-api, so based on work of Ed Langley 
+(https://github.com/fiddlerwoaroof, https://fwoar.co/)
+
 
 An implementation of part of JIRA's API and a simple client for listing and
 searching issues.
